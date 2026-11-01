@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "dataset",
+			"path": "../dataset"
+		},
+		{
+			"name": "assigment-DL-1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

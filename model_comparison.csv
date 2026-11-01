@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,num_test_samples
+MobileNetV2,0.0000,0.0000,0.0000,0.0000,100
+ResNet50,0.0000,0.0000,0.0000,0.0000,100
+EfficientNetB0,0.0000,0.0000,0.0000,0.0000,100
