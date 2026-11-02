@@ -20,3 +20,8 @@ dataset/
 *.bin
 *.pt
 *.safetensors
+.venv/
+features/
+*.keras
+*.npz
+*.so
