@@ -16,3 +16,7 @@ dataset/
 *.webp
 .DS_Store
 .ipynb_checkpoints/
+.venv/
+*.bin
+*.pt
+*.safetensors
