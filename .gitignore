@@ -18,7 +18,7 @@ dataset/
 .ipynb_checkpoints/
 .venv/
 *.bin
-*.pt
+*.pti
 *.safetensors
 .venv/
 features/
